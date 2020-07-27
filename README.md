@@ -1,0 +1,2 @@
+# IsNDivisible
+Javascript CodeWars Exersice
